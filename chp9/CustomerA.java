@@ -5,6 +5,7 @@ public class CustomerA{
 	String address;
 	
 	
+	
 	// constructor object declaretion
 	
 	//default constructor
